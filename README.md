@@ -28,4 +28,4 @@
 5) Plots απο τα σήματα ECG και EDA: 
 [plots_user1.zip](https://github.com/user-attachments/files/25130828/plots_user1.zip)
 
-Όλα τα δεδομένα βρίσκονται στο : https://drive.google.com/drive/folders/1UA2hp7aGDTdxPdnMZ9TfwmozNgscCDGq
+Όλα τα δεδομένα που αφορούν τα σήματα ECG και EDA βρίσκονται στο : https://drive.google.com/drive/folders/1UA2hp7aGDTdxPdnMZ9TfwmozNgscCDGq
